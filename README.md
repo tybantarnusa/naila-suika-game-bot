@@ -1,0 +1,1 @@
+Rough and quick code of playing suika-game.app for NaiLA.
